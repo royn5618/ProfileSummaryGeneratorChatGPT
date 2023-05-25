@@ -3,8 +3,8 @@ from helper import *
 import openai
 from openai_helper import get_response
 
-st.set_page_config(layout="wide", page_title="CV Assistant")
-st.header(":orange[PyCon Demo: Resume Building Assistant]")
+st.set_page_config(layout="wide", page_title="Content Generation")
+st.header(":orange[PyCon Demo: Content Generation using ChatGPT]")
 st.markdown("""---""")
 
 # PART 1
