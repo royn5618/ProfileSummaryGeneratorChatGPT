@@ -9,7 +9,7 @@ Add a config.py and add your API Key from openai.com as below:
 
 ## Install Requirements
 
-``pip install -r requirements.txt``
+``$ProfileSummaryGeneratorChatGPT> pip install -r requirements.txt``
 
 ## Run Streamlit App
 
